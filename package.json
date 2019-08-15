@@ -64,7 +64,7 @@
     "solidity-coverage": "^0.6.0",
     "solmd": "^0.4.0",
     "truffle": "^5.0.29",
-    "truffle-contract": "^4.0.26",
+    "truffle-contract": "^4.0.29",
     "truffle-flattener": "^1.4.0",
     "truffle-hdwallet-provider": "^1.0.15",
     "web3": "^1.2.0",
