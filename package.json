@@ -59,7 +59,7 @@
     "ganache-cli": "^6.4.5",
     "lodash": "^4.17.14",
     "rimraf": "^2.6.3",
-    "solc": "^0.5.7",
+    "solc": "^0.6.2",
     "solhint": "^2.0.0",
     "solidity-coverage": "^0.6.0",
     "solmd": "^0.4.0",
